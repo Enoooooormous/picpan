@@ -1,4 +1,4 @@
-# picpan
+# Picpan
 Picpan is a computer vision algorithm that recognizes what dish is on the picture (the user snap a picture of a dish and the algorithm recognizes what it is). The idea is to use this capability to output the recipe (and video tutorial) or suggest vegetarian substitutes. 
 
 Over the last few years, we have seen an increased focus on health and how to develop healthy (healthier) lifestyles. Encouraging and empowering people to cook at home is the idea underlying this project. PicPan leverages technology to gamify the process of home-cooking and make it seamless, therefore more likely.
